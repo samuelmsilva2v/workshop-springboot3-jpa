@@ -26,7 +26,7 @@ O projeto foi criado durante o curso de Java do Prof. Nélio Alves na plataforma
 # Como executar o projeto
 
 ## Back end
-Pré-requisitos: Java 17
+Pré-requisitos: Java 17, SpringBoot 3.1.4
 
 ```bash
 # clonar repositório
