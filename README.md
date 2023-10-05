@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Este projeto back-end em Java tem como objetivo criar um conjunto de Web Services que oferecem funcionalidades para gerenciar usuários, items, pedidos e pagamentos 
+Este projeto back-end em Java tem como objetivo criar um conjunto de Web Services que oferecem funcionalidades para gerenciar usuários, itens, pedidos e pagamentos 
 seguindo as melhores práticas de desenvolvimento. O projeto incorpora um modelo de domínio bem definido, uma estrutura de camadas lógicas, 
 configuração de banco de dados de teste (H2), povoamento do banco de dados, operações CRUD (Create, Retrieve, Update, Delete) e tratamento de exceções.
 
