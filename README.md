@@ -30,11 +30,10 @@ Pré-requisitos: Java 17, SpringBoot 3.1.4
 
 ```bash
 # clonar repositório
-git clone https://github.com/samuelmsilva2v/workshop-springboot3-jpa/
+git clone git@github.com:samuelmsilva2v/workshop-springboot3-jpa.git
 
-# entrar na pasta do projeto back end
-cd src
-cd main
+#entrar na pasta do projeto
+cd workshop-springboot3-jpa
 
 # executar o projeto
 ./mvnw spring-boot:run
